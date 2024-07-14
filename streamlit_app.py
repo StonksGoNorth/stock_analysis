@@ -66,11 +66,8 @@ gdp_df = get_gdp_data()
 '''
 # :earth_americas: GDP dashboard
 
-Hej Natasja møs møs 😁
-
-Browse GDP data from the [World Bank Open Data](https://data.worldbank.org/) website. As you'll
-notice, the data only goes to 2022 right now, and datapoints for certain years are often missing.
-But it's otherwise a great (and did I mention _free_?) source of data.
+Hej familie, se lige en fed hjemmeside jeg har lavet. Data er trukket fra [World Bank Open Data](https://data.worldbank.org/). Data går fra 1980 til 2022 og data for nogle lande vil mangle.
+Danmark hedder: DNK, Sverige: SWE og Norge: NOR, hvis i vil sammenligne os med vores naboer.
 '''
 
 # Add some spacing
