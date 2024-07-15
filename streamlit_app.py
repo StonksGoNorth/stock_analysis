@@ -66,8 +66,6 @@ gdp_df = get_gdp_data()
 '''
 # :earth_americas: GDP dashboard
 
-Hej familie, se lige en fed hjemmeside jeg har lavet. Data er trukket fra [World Bank Open Data](https://data.worldbank.org/). Data går fra 1980 til 2022 og data for nogle lande vil mangle.
-Danmark hedder: DNK, Sverige: SWE og Norge: NOR, hvis i vil sammenligne os med vores naboer.
 '''
 
 # Add some spacing
